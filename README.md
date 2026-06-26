@@ -1,4 +1,4 @@
-JobApp — Resume Parser & Career Exploration Tool
+AI Resume Analyzer — Resume Parser & Career Exploration Tool
 Most job search tools match your resume to jobs you already know about. JobApp does the opposite — it reads your resume, understands your actual skills and experience, and surfaces roles in industries you might not have considered or didn't think were accessible to you.
 Upload a resume. Get back a set of job recommendations with context for why your background fits — even when it's not obvious.
 Live demo: https://jobapp-public.onrender.com/docs
